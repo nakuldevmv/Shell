@@ -1,0 +1,16 @@
+{
+    "name": "custom-shell",
+    "version": "1.0.0",
+    "description": "A simple custom shell implemented in Node.js",
+    "main": "bin/shell.js",
+    "scripts": {
+      "start": "node bin/shell.js"
+    },
+    "bin": {
+      "mysh": "./bin/shell.js"
+    },
+    "author": "Nakul",
+    "license": "MIT",
+    "dependencies": {}
+  }
+  
